@@ -1,9 +1,10 @@
-Try Github 정리
+#Try Github 정리
 
 **로컬 저장소** 는 git이 관리하는 세 그루의 나무로 구성돼있다
 첫번째 나무인 **작업 디렉토리(Working directory)** 는 실제 파일들로 이루어져있고, 두번째 나무인 **인덱스(Index)** 는 준비 영역(staging area)의 역할을 하며, 마지막 나무인 **HEAD** 는 최종 확정본(commit)을 나타낸다
+
 [REF][1]
-[1]:https://rogerdudler.github.io/git-guide/index.ko.html
+[1]: https://rogerdudler.github.io/git-guide/index.ko.html/
 
 ===============
 1. git init
